@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1602523486 source:c:\users\asus\documents\jueve\parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"mascota.h"
+
+1602628263 c:\users\asus\documents\jueve\parciallaboratorio\menu.h
+
+1602633259 c:\users\asus\documents\jueve\parciallaboratorio\mascota.h
+
+1602632825 source:c:\users\asus\documents\jueve\parciallaboratorio\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"mascota.h"
+
+1602632803 source:c:\users\asus\documents\jueve\parciallaboratorio\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"mascota.h"
+
